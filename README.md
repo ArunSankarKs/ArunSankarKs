@@ -7,15 +7,15 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Computer Science Graduate.
 - 💼 &nbsp; Blockchain and Devops, Full stack from time to time ;)
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in cyber Security.
 - ✍️ &nbsp; Python Master Race :)
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Jinja | React | HTML | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Mongo 
-- 🔧 &nbsp; Webstorm | PyCharm | Visual Studio code | Git
+- 💻 &nbsp; Python | Dart | Java   
+- 🌐 &nbsp; Jinja | React | Vue
+- 🛢 &nbsp; DMBS | Devops | Distributed Computing
+- 🔧 &nbsp; Web3 | Dapps | ERC 721 1155 20 
 
 <br>
 
@@ -27,4 +27,4 @@
 
 
 
-⭐️ From [devSouvik](https://github.com/ArunSankarks)
+⭐️ From [ArunSankarks](https://github.com/ArunSankarks)
