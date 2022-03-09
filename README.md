@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Arun Sankar.</h2>
-<img align="right" alt="GIF" src="https://i.giphy.com/RbDKaczqWovIugyJmW.gif" width="700" />
+<img align="right" alt="GIF" src="https://i.giphy.com/RbDKaczqWovIugyJmW.gif" width="400" />
 
 <h3> About Me </h3>
 
